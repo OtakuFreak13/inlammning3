@@ -1,0 +1,6 @@
+1.
+Difference is how the memory is stored. in dll or exe.
+
+2.
+Good - file takes up less space
+bad - takes longer processing time
